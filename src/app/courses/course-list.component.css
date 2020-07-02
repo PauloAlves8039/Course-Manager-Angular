@@ -1,0 +1,9 @@
+.table {
+  background-color: #4F4F4F;
+  color: #FFFFFF;
+}
+
+#title-app, #title-filter  {
+  color: #00CD00;
+  font-weight: 700;
+}
