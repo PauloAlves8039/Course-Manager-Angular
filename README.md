@@ -3,6 +3,7 @@
 <p align="center">
 <a href="https://cli.angular.io/"><img src="https://img.shields.io/badge/angular-CLI-red"></a>
 <a href="https://getbootstrap.com/docs/4.5/getting-started/introduction/"><img src="https://img.shields.io/badge/bootstrap-v4.5.0-blueviolet"></a>
+  <a href="https://github.com/PauloAlves8039/Course-Manager-Angular/blob/master/LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-%2376EE00"></a>
 </p>
 
 ## :computer: Projeto
@@ -17,6 +18,9 @@ Backend da aplicação: [Course Manager Server](https://github.com/PauloAlves803
 - [Angular CLI v10.0.0](https://cli.angular.io/).
 - [Bootstrap v4.5.0](https://getbootstrap.com/docs/4.5/getting-started/introduction/).
 - [Font Awesome v4.7.0](https://fontawesome.com/v4.7.0/).
+
+## :pencil: Licença
+Esse projeto está sob a licença [MIT](https://github.com/PauloAlves8039/Course-Manager-Angular/blob/master/LICENSE.md)
 
 ## Author
 :boy: [Paulo Alves](https://github.com/PauloAlves8039)
